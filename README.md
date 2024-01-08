@@ -3,10 +3,18 @@
 
 # Projetos
 
-Nesse repositorio está sendo alocado as atividades praticas que irei fazer durante a [Formação Cientista de Dados - Udemy](https://www.udemy.com/course/cientista-de-dados/) do professor [!Fernando Amaral](https://www.linkedin.com/in/fernando-amaral/) com o objetivo agregar conhecimento na aréa de CiÊncia de Dados.
+Nesse repositorio está sendo alocado as atividades praticas que irei fazer durante a [Formação Cientista de Dados - Udemy](https://www.udemy.com/course/cientista-de-dados/) do professor [Fernando Amaral](https://www.linkedin.com/in/fernando-amaral/) com o objetivo agregar conhecimento na aréa de CiÊncia de Dados.
 ## Roadmap
 
-- [!Limpeza e tratamento](https://github.com/oderlanfreire/DataScience-Study/tree/main/limpeza-e-tratamento)
+- [Limpeza e tratamento](https://github.com/oderlanfreire/DataScience-Study/tree/main/limpeza-e-tratamento)
+- [Graficos, Visualização e Dashboards](https://github.com/oderlanfreire/DataScience-Study/tree/main/graficos-visualizacao-e-dashboards)
+- [Estatística I](https://github.com/oderlanfreire/DataScience-Study/tree/main/estatistica-I)
+- [Estatística II](https://github.com/oderlanfreire/DataScience-Study/tree/main/estatistica-II)
+- [Regressão Linear](https://github.com/oderlanfreire/DataScience-Study/tree/main/regressao-linear)
+- [Regressão Logística](https://github.com/oderlanfreire/DataScience-Study/tree/main/regressao-logistica)
+- [Regressão Multipla](https://github.com/oderlanfreire/DataScience-Study/tree/main/regressao-multipla)
+- [Séries Temporais](https://github.com/oderlanfreire/DataScience-Study/tree/main/series-temporais)
+- [Machine Learning](https://github.com/oderlanfreire/DataScience-Study/tree/main/machine-learning)
 
 
 ## Tecnologias:
